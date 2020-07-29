@@ -1,0 +1,36 @@
+{
+    "regions":[{
+        "region":"las",
+        "id":"la2"
+    },{
+        "region":"lan",
+        "id":"la1"
+    },{
+        "region":"na",
+        "id":"na1"
+    },{
+        "region":"br",
+        "id":"br1"
+    },{
+        "region":"eu",
+        "id":"eun1"
+    },{
+        "region":"euw",
+        "id":"euw1"
+    },{
+        "region":"jp",
+        "id":"jp1"
+    },{
+        "region":"kr",
+        "id":"kr"
+    },{
+        "region":"oc",
+        "id":"oc1"
+    },{
+        "region":"tr",
+        "id":"tr1"
+    },{
+        "region":"ru",
+        "id":"ru"
+    }]
+}
